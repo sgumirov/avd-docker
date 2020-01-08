@@ -1,4 +1,4 @@
-FROM android-emulator-base:latest
+FROM avd-base:latest
 
 # ================================================
 #
