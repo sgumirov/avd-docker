@@ -1,4 +1,4 @@
-# Android Emulator in Docker to use with automated tests
+# Android Emulator in Docker to use with instrumented tests
 
 ADB ports: 5565, 5564. Autodiscovered by adb, no setup needed.
 VNC/http port: 6080, open with browser. Warning: no auth! Do not expose unintentionally.
